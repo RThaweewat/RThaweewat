@@ -5,5 +5,5 @@ I'm a self-taught data scientist and statistical UX researcher with two years of
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on House Analytics, Architecture-related ML.
-- 🌱 I’m currently learning PyTorch Lightning, JAX, Databricks.
+- 🌱 I’m currently learning JuliaLang, PyTorch Lightning, JAX, Databricks.
 - 👯 I’m looking to collaborate on data science project for good.
