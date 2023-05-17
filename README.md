@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hello World!
 
-I'm a self-taught data scientist and statistical UX researcher with two years of professional experience in data science from various industries, including health-care, insurance, and architectural construction. I specialize in building fast and scalable end-to-end machine learning solutions, deliver the solid business analytics and data strategy along with experimental design and UX optimization by A/B testing and causal inference.
+I'm a Data Scientist and Statistical UX Researcher who passionately self-taught the art of transforming raw data into meaningful insights. With two dynamic years of professional experience under my belt, I have leveraged my skills in diverse industries such as healthcare, insurance, and architectural construction.
 
-Here are some facts about me:
+My expertise lies in architecting fast, scalable, end-to-end machine learning solutions. I deliver robust business analytics and formulate effective data strategies. Alongside this, I have a knack for enhancing user experiences through experimental design, A/B testing, and causal inference.
+My Current Adventures 🛤️
 
-- 🔭 I’m currently working on House Analytics, Architecture-related ML.
-- 🌱 I’m currently learning JuliaLang, PyTorch Lightning, JAX, Databricks.
-- 👯 I’m looking to collaborate on data science project for good.
+- 🏠 Working on 'House Analytics', an intriguing project focused on Architecture-related Machine Learning.
+- 🎓 Upskilling myself in JuliaLang, PyTorch Lightning, JAX, and Databricks.
+
+### Let's Collaborate 🤝
+
+I'm always eager to join forces on data science projects that bring about positive impact. So, if you have an idea or a project where we could synergize, don't hesitate to reach out!
+
+Thank you for visiting my GitHub! Happy coding! 🌟
