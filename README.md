@@ -1,18 +1,19 @@
-# Hello World!
+# Hey there! 👋
 
-I'm a **Data Scientist**, **AI Engineer**  passionate about transforming raw data into meaningful insights. With over four dynamic years of professional experience across the **telecommunications**, **construction**, and **insurance** sectors, I specialize in advanced analytics and machine learning to solve complex business problems.
+I'm a data scientist and AI engineer who enjoys digging into raw data and turning it into something meaningful. Over the past four years, I've worked across telecommunications, construction, and insurance, using machine learning and advanced analytics to solve real-world problems.
 
-## About Me
+## A Bit About Me
 
-- **Data Science Expertise**: Developing machine learning solutions, including customer segmentation models, churn prediction, and fraud detection systems.
-- **Technical Skills**: Proficient in **Python**, **SQL**, **PySpark**, and various ML frameworks. Skilled in creating scalable data pipelines, recommendation systems, and applying **NLP** and **Computer Vision** to real-world challenges.
-- **AI Advancements**: Enthusiastic about generative AI and continuously exploring new technologies like **JuliaLang**, **JAX**, and **Databricks**.
-- **Current Focus**: Working on **LLM system design and solutions**, aiming to develop and optimize large language models for diverse applications.
+- **Data Science in Action:** From building churn prediction models to fraud detection and recommendation systems, I love creating practical ML solutions.
+- **Exploring Generative AI:** I'm always checking out emerging tech—VisionLLM, GraphLLM, and beyond—to push the boundaries of what AI can do.
+- **Current Focus:** Right now, I'm deep into large language models (LLMs), designing scalable systems and applications that bring these models to life.
 
-## Let's Make an Impact Together 🤝
+## Projects & Involvement
 
-I'm always ready and excited to collaborate on **data science** and **AI engineering** projects that leave a lasting, positive impression. Whether it's data magic or advanced AI solutions, I'd love to hear about your ideas!
+- **Thai Datasets on Kaggle:** I’ve been curating and cleaning Thai datasets, making them more accessible to everyone. [Check them out](https://www.kaggle.com/thaweewatboy/datasets) if you’d like to collaborate!
+- **Instruction Datasets on Hugging Face:** I’ve published English-Thai instruction datasets for tuning language models. Feel free to [browse and contribute](https://huggingface.co/Thaweewat).
+- **OpenThaiNLP Contributor:** Proud to have contributed to [OpenThaiNLP](https://openthaigpt.aieat.or.th/released-models-version-less-than-0.1.0-beta-greater-than-16-05-23), an effort to bring Thai GPT models to the public.
 
-- 💼 **Thai Datasets Migration**: Engaged in cleaning up and migrating public [Thai datasets](https://www.kaggle.com/thaweewatboy/datasets) to Kaggle. Let's connect if you're interested in making Thai datasets more accessible and usable.
-- 📚 **Instruction Datasets**: Published multiple English-Thai instruction datasets on [Hugging Face](https://huggingface.co/Thaweewat) for those working on instruction tuning for Language Models.
-- 💻 **OpenThaiNLP Contributor**: Proud to be a main contributor to [OpenThaiNLP](https://openthaigpt.aieat.or.th/released-models-version-less-than-0.1.0-beta-greater-than-16-05-23), a project aiming to make Thai GPT publicly accessible.
+## Let’s Connect 🤝
+
+If you’re into data science, AI engineering, or just tinkering with new ideas, I’m always up for a chat or a project. Let’s build something cool together!
