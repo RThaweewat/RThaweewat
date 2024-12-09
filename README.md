@@ -6,7 +6,7 @@ I'm a data scientist and AI engineer who enjoys digging into raw data and turnin
 
 - **Data Science in Action:** From building churn prediction models to fraud detection and recommendation systems, I love creating practical ML solutions.
 - **Exploring Generative AI:** I'm always checking out emerging tech—VisionLLM, GraphLLM, and beyond—to push the boundaries of what AI can do.
-- **Current Focus:** Right now, I'm deep into large language models (LLMs), designing scalable systems and applications that bring these models to life.
+- **Current Focus:** Right now, I'm deep into large language models (LLMs), designing scalable systems and applications that bring these models to life. (Chat/Agentic)
 
 ## Projects & Involvement
 
